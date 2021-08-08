@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Bé à!',
-    introDesc: `Anh xin lỗi bé mà 😞`,
+    introDesc: `Anh xin lỗi bé nha:))`,
     btnIntro: 'Nha bé :<',
     title: 'Anh iu bé nhìu lắm nên bé đừng có giận anh nha 😘',
     desc: 'Kh giận anh nữa nha? ',
